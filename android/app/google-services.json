@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449509982235",
+    "firebase_url": "https://signinandsignup-a3524.firebaseio.com",
+    "project_id": "signinandsignup-a3524",
+    "storage_bucket": "signinandsignup-a3524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449509982235:android:ca5ab49ef6defcd4bef8be",
+        "android_client_info": {
+          "package_name": "com.example.SignInAndSignUp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449509982235-3748n8csj519uo3pr4du8oe7m8s46g2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSbmCjL4eFVLUedpLWvCFqgZij8dNKyPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449509982235-3748n8csj519uo3pr4du8oe7m8s46g2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
